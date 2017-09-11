@@ -11,5 +11,5 @@ $(call inherit-product, device/kyocera/c5215/c5215.mk)
 PRODUCT_DEVICE := c5215
 PRODUCT_NAME := omni_c5215
 PRODUCT_BRAND := c5215
-PRODUCT_MODEL := GT-I8552
+PRODUCT_MODEL := c5215
 PRODUCT_MANUFACTURER := kyocera
